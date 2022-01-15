@@ -2,7 +2,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Questions](#questions)
 
 ## General info
 The dataset used for training this model is from jmcauley.ucsd.edu/data/amazon/
@@ -36,9 +35,3 @@ Upload the Notebook and run it on Google Colab
 
 ```
 
-
-## Questions:
-1. Is it possible to get a sentiment graph and word cloud from prediction?
-2. If I use the model on Jumia corpus will it predict in real time or will I have to run it through training as well?
-3. In the case of classifying cellphone reviews based on the aspects would I rather explicitly define the topics I am looking for (Text Classification - Supervised Learning)
-4. OR can I still used the (Topic Modelling - Unsupervised Learning) to get the topics present
